@@ -1,1 +1,11 @@
-# Week-14_JavaScript_DOM-Manipulation
+# Single-Page Application
+
+Data loading, filtering, and displaying filtered data in a single html page were main purpose of this project. I use following tools / libraries as part of the development.
+  - Bootstrap
+  - D3.js
+  - CSS
+  - html
+
+Code snippet 
+
+![codesnippet](/Screenshots/codesnippet.png)
